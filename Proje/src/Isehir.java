@@ -1,0 +1,61 @@
+public interface Isehir {
+    void Adana();
+    void Antalya();
+    void Mersin();
+    void Hatay();
+    void Kmaras();
+    void Osmaniye();
+    void Isparta();
+    void Burdur();
+    void Trabzon();
+    void Samsun();
+    void Rize();
+    void Ordu();
+    void Giresun();
+    void Sinop();
+    void Amasya();
+    void Kastamonu();
+    void Istanbul();
+    void Bursa();
+    void Balikesir();
+    void Canakkale();
+    void Edirne();
+    void Kocaeli();
+    void Tekirdag();
+    void Sakarya();
+    void Izmir();
+    void Mugla();
+    void Aydin();
+    void Manisa();
+    void Denizli();
+    void Kutahya();
+    void Afyon();
+    void Usak();
+    void Ankara();
+    void Eskisehir();
+    void Konya();
+    void Kayseri();
+    void Nevsehir();
+    void Sivas();
+    void Nigde();
+    void Yozgat();
+    void Gantep();
+    void Sanliurfa();
+    void Diyarbakir();
+    void Mardin();
+    void Batman();
+    void Siirt();
+    void Adiyaman();
+    void Kilis();
+    void Erzurum();
+    void Malatya();
+    void Van();
+    void Kars();
+    void Elazig();
+    void Erzincan();
+    void Bitlis();
+    void Ardahan();
+
+
+
+}
